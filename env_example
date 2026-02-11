@@ -2,3 +2,4 @@
 VITE_SUPABASE_URL=twoj_url_supabase
 VITE_SUPABASE_ANON_KEY=twoj_klucz_anon
 SUPABASE_SERVICE_ROLE_KEY=twoj_klucz_service_role
+VITE_OPENAI_API_KEY=twoj_klucz_openai
